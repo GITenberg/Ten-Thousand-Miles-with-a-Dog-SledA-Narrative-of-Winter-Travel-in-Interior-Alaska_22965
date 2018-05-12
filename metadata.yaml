@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25611
     wikipedia: http://en.wikipedia.org/wiki/Hudson_Stuck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22965#Ten-Thousand-Miles-with-a-Dog-SledA-Narrative-of-Winter-Travel-in-Interior-Alaska
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
